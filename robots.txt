@@ -1,0 +1,11 @@
+# NibbleMaps - Robots.txt
+# Allows all search engines to crawl and index the site
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://nibblemaps.com/sitemap.xml
+
+# Crawl-delay (optional, set to 10 seconds)
+Crawl-delay: 10
